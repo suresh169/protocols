@@ -10,7 +10,5 @@ step3:
 upload you base project or projectidea as a file/raw data 
 step4:
 completed guys!
-please upload screenshot as bouncepoint+..
-
-
-please do some responce this our base task for motivation.............
+please upload screenshot as bouncepoint+.
+create a car booking system in full stack 
